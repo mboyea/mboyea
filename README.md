@@ -1,10 +1,12 @@
 ### Hey, I'm Matthew Boyea.
-#### An Engineer, Athlete, & Scholar.
-My right to having more than enough is cancelled if I don't use that more to help those who have less.
-We strive and die for what will be here when we're gone.
-I remain, obediently yours.
+#### Engineer, Athlete, & Scholar.
+I pursue skill so that I might share the best of experiences with myself and my communities.
 
-I study philosophies, systems, and experiences. I share what I can in articles at [mboyea.com/articles](https://www.mboyea.com/articles) and in videos at [youtube.com/@mtcboyea](https://www.youtube.com/@mtcboyea).
+> My right to having more than enough is cancelled if I don't use that more to help those who have less.
+> We strive and die for what will be here when we're gone.
+> I remain, obediently yours.
+
+I explore philosophies and systems. I share these in articles at [mboyea.com/articles](https://www.mboyea.com/articles) and in videos at [youtube.com/@mtcboyea](https://www.youtube.com/@mtcboyea).
 
 #### I specialize in software technology.
 I do full-stack website development, embedded systems programming, & videogame development.
