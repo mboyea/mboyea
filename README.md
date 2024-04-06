@@ -2,7 +2,7 @@
 #### Engineer, Athlete, & Scholar.
 I seek to share the best of experiences with my communities.
 
-While exploring experiences, philosophies, and systems, I try to share these in articles at [mboyea.com/articles](https://www.mboyea.com/articles) and in videos at [youtube.com/@mtcboyea](https://www.youtube.com/@mtcboyea).
+I host articles at [mboyea.com/articles](https://www.mboyea.com/articles) and videos at [youtube.com/@mtcboyea](https://www.youtube.com/@mtcboyea).
 
 #### I specialize in software technology.
 I practice full-stack website development, embedded systems programming, & videogame development.
