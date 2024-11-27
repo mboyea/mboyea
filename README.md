@@ -4,7 +4,9 @@ I've been programming since 2018. I do full-stack website development, robotics 
 
 My athletic hobbies currently include weightlifting, biking, and MMA.
 
+<!---
 I've written articles at [mboyea.com/articles](https://www.mboyea.com/articles) and videos at [youtube.com/@mtcboyea](https://www.youtube.com/@mtcboyea) on all sorts of subjects. Check them out!
+--->
 
 #### Reach out for any reason!
 To contact me, email at [contact@mboyea.com](mailto:contact@mboyea.com).
