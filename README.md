@@ -1,19 +1,42 @@
-### Hey, I'm Matthew Boyea.
+# 😀 Hi, I'm Matthew!
 
-#### Engineer, Athlete, & Scholar.
+I've been programming since 2018. I do full-stack website development, videogame development, and robotics programming.
 
-I've been programming since 2018.
-I do full-stack website development, robotics programming, & videogame development.
-<!---
-See my porfolio and resume at [mboyea.com/portfolio](https://www.mboyea.com/portfolio) for more details.
---->
+- Working on software is just about my favorite thing to do.
+- I also really enjoy **weightlifting** 🏋️ & **kickboxing** 🥊 and I *love* to work on **cars** 🚘!!
 
-My athletic hobbies currently include weightlifting, biking, and MMA.
+## 🔭 Current Work
 
-<!---
-I've written articles at [mboyea.com/articles](https://www.mboyea.com/articles) and videos at [youtube.com/@mtcboyea](https://www.youtube.com/@mtcboyea) on all sorts of subjects. Check them out!
---->
+- LanCouch is a VPN service targeted towards gamers who miss playing games like Diablo II that only support LAN multiplayer. It is much easier to connect to a VPN than it is to setup a server for each game you want to play with friends. This way, you can imitate old-fashioned LAN parties online with your buddies. See the prototype in-progress at [github.com/mboyea/fly-vpn](https://github.com/mboyea/fly-vpn).
+- Lacuna is my master template for making websites for clients on a contractual basis. It's designed to be highly extensible, but very simple for clients to use. It uses various FOSS to replace the need for a CMS. See the project in-progress at [github.com/mboyea/lacuna](https://github.com/mboyea/lacuna).
 
-#### Reach out for any reason!
+## 🛠 Tech & Tools
+
+HTML
+CSS
+JavaScript
+TypeScript
+React
+Vue
+Svelte
+Solid
+WebGL
+GLSL
+Node
+Python
+SQL
+Java
+C++
+C#
+XML
+Assembly
+Docker
+AWS SAM
+Linux (Ubuntu, Alpine, Arch, NixOS)
+Makefile
+Bash
+Nix
+
+## 🌍 Let's Connect!
 
 To contact me, email at [contact@mboyea.com](mailto:contact@mboyea.com).
