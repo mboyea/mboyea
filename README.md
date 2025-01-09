@@ -31,6 +31,7 @@ C#
 XML
 Assembly
 Docker
+Fly.io
 AWS SAM
 Linux (Ubuntu, Alpine, Arch, NixOS)
 Makefile
