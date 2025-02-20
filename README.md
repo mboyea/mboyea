@@ -9,6 +9,7 @@ I've been programming since 2018. I do full-stack website development, videogame
 
 - **LanCouch** is a VPN service targeted towards gamers who miss playing games like Diablo II that only support LAN multiplayer. See the prototype in-progress at [github.com/mboyea/fly-vpn](https://github.com/mboyea/fly-vpn).
 - **Lacuna** is my master template for making websites. See the project in-progress at [github.com/mboyea/lacuna](https://github.com/mboyea/lacuna).
+- **[www.mboyea.com](https://www.mboyea.com)** is my portfolio website. See the project in-progress at [github.com/mboyea/www-mboyea-com](https://github.com/mboyea/www-mboyea-com).
 
 ## 🛠 Tech & Tools
 
