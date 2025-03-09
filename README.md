@@ -61,7 +61,7 @@ Beancount
 ## 🌍 Let's Connect!
 
 To contact me, email at [contact@mboyea.com](mailto:contact@mboyea.com).
-
+<!--
 ## ... Other Projects
 
 - **Docs** is the public backup I have of my personal documents.
@@ -82,3 +82,4 @@ To contact me, email at [contact@mboyea.com](mailto:contact@mboyea.com).
   See the prototype at [github.com/mboyea/fly-vpn](https://github.com/mboyea/fly-vpn).
   
   This project is shelved until further notice.
+-->
