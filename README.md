@@ -10,10 +10,8 @@ I do full-stack website development, videogame development, and robotics program
 ## 🔭 Current Work
 
 - **[www.mboyea.com](https://www.mboyea.com)** is my portfolio website, made with PostgreSQL and SvelteKit.
-  
   See the source code at [github.com/mboyea/www-mboyea-com](https://github.com/mboyea/www-mboyea-com).
 - **MDC (Markdown Converter)** is a piece of software I use to convert my Markdown notes into PDF documents.
-  
   See the source code at [github.com/mboyea/mdc](https://github.com/mboyea/mdc)
 - **Jotrift** is the name of my upcoming Markdown note storage software.
   My feature list for the MVP prototype is:
@@ -25,10 +23,8 @@ I do full-stack website development, videogame development, and robotics program
   - Users can export (download) thier documents & images
   - Users can perform full text search over their notes (like Simplenote)
   
-  This project is closed-source. 
 - **Sometimes I take contracts** to build websites for small businesses.
   I don't advertise this because it's not very profitable.
-  These projects are often closed source.
 
 ## 🛠 Tech & Tools
 
