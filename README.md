@@ -1,9 +1,13 @@
 # 😀 Hi, I'm Matthew!
 
-I've been programming since 2018. I do full-stack website development, videogame development, and robotics programming.
+I do full-stack website development, videogame development, and robotics programming.
 
 - Working on software is just about my favorite thing to do.
-- I also really enjoy **weightlifting** 🏋️ & **kickboxing** 🥊 and I *love* to work on **cars** 🚘!!
+- I also really enjoy **weightlifting** 🏋️ and **kickboxing** 🥊 and I *love* to work on **cars** 🚘!!
+- I was born in 2004. I built my first computer over Christmas in 2014.
+- I started learning how to make software in 2017.
+- I've been programming for work since 2019.
+- I graduated with a 4-year Comp. Sci. degree in 2023.
 
 ## 🔭 Current Work
 
@@ -25,6 +29,8 @@ I've been programming since 2018. I do full-stack website development, videogame
 - **MDC (Markdown Converter)** is a piece of software I use to convert my Markdown notes into PDF documents.
   
   See the source code at [github.com/mboyea/mdc](https://github.com/mboyea/mdc)
+- **Sometimes I take contracts** and build websites for small businesses.
+  These projects are typically closed source and I don't advertise them.
 
 ## 🛠 Tech & Tools
 
