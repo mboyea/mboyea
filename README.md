@@ -25,8 +25,9 @@ I do full-stack website development, videogame development, and robotics program
   - Users can perform full text search over their notes (like Simplenote)
   
   This project is closed-source. 
-- **Sometimes I take contracts** and build websites for small businesses.
-  These projects are typically closed source and I don't advertise this because it's not very profitable.
+- **Sometimes I take contracts** to build websites for small businesses.
+  I don't advertise this because it's not very profitable.
+  These projects are often closed source.
 
 ## 🛠 Tech & Tools
 
