@@ -11,7 +11,7 @@ I do full-stack website development, videogame development, and robotics program
 
 - **[www.mboyea.com](https://www.mboyea.com)** is my portfolio website, made with PostgreSQL and SvelteKit.
   See the source code at [github.com/mboyea/www-mboyea-com](https://github.com/mboyea/www-mboyea-com).
-- **MDC (Markdown Converter)** is a piece of software I use to convert my Markdown notes into PDF documents.
+- **MDC (Markdown Converter)** is a piece of software I use to convert my Pandoc-Flavored Markdown notes into PDF documents.
   See the source code at [github.com/mboyea/mdc](https://github.com/mboyea/mdc)
 - **Jotrift** is the name of my upcoming Markdown note storage software.
   My feature list for the MVP prototype is:
