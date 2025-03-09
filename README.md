@@ -7,11 +7,9 @@ I've been programming since 2018. I do full-stack website development, videogame
 
 ## 🔭 Current Work
 
-- ~~**LanCouch** is a VPN service targeted towards gamers who miss playing games like Diablo II that only support LAN multiplayer.
-  See the prototype in-progress at [github.com/mboyea/fly-vpn](https://github.com/mboyea/fly-vpn).~~
-- ~~**Lacuna** is my master template for making websites.
-  See the project in-progress at [github.com/mboyea/lacuna](https://github.com/mboyea/lacuna).~~
-- **[www.mboyea.com](https://www.mboyea.com)** is my portfolio website.
+- **[www.mboyea.com](https://www.mboyea.com)** is my portfolio website, made with PostgreSQL and SvelteKit.
+  The website has SSR, WCAG compliance (meets accessibility standards), and is quite usable with JavaScript or CSS disabled.
+  
   See the source code at [github.com/mboyea/www-mboyea-com](https://github.com/mboyea/www-mboyea-com).
 - **Jotrift** is the name of my upcoming Markdown note storage software.
   My feature list for the MVP prototype is:
@@ -23,7 +21,10 @@ I've been programming since 2018. I do full-stack website development, videogame
   - Users can export (download) thier documents & images
   - Users can perform full text search over their notes (like Simplenote)
   
-  This is a closed-source project! 
+  This project is closed-source. 
+- **MDC (Markdown Converter)** is a piece of software I use to convert my Markdown notes into PDF documents.
+  
+  See the source code at [github.com/mboyea/mdc](https://github.com/mboyea/mdc)
 
 ## 🛠 Tech & Tools
 
@@ -57,3 +58,24 @@ Beancount
 ## 🌍 Let's Connect!
 
 To contact me, email at [contact@mboyea.com](mailto:contact@mboyea.com).
+
+## ... Other Projects
+
+- **Docs** is the public backup I have of my personal documents.
+  This includes exciting things like recipes, resumes, and notes in Pandoc-Flavored Markdown from my personal life.
+  It also contains my financial ledger written using beancount.
+  Looking for my passwords? Sorry! I store those encrypted on a USB drive using KeePassXC.
+  
+  See the source code at [github.com/mboyea/docs](https://github.com/mboyea/docs)
+- **Lacuna** is my master template for making websites.
+  See the prototype at [github.com/mboyea/lacuna](https://github.com/mboyea/lacuna).
+  
+  This project is on hold while I focus on securing suitable long-term employment.
+- **NixFlyMC** is a Minecraft server compiled by Nix Package Manager and hosted by Fly.io.
+  See the prototype at [github.com/mboyea/nixflymc](https://github.com/mboyea/nixflymc)
+  
+  This project is on hold while I focus on securing suitable long-term employment.
+- **LanCouch** is a VPN service targeted towards gamers who miss playing games like Diablo II that only support LAN multiplayer.
+  See the prototype at [github.com/mboyea/fly-vpn](https://github.com/mboyea/fly-vpn).
+  
+  This project is shelved until further notice.
