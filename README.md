@@ -4,8 +4,9 @@ I do full-stack website development, videogame development, and robotics program
 
 - Working on software is just about my favorite thing to do.
 - I also really enjoy **weightlifting** 🏋️ and **kickboxing** 🥊 and I *love* to work on **cars** 🚘!!
+<!--
 - I was born in 2004. I built my first computer in 2014. I started making software in 2017. I've been programming for work since 2019. I graduated with a Comp. Sci. degree in 2023.
-
+-->
 ## 🔭 Current Work
 
 - **[www.mboyea.com](https://www.mboyea.com)** is my portfolio website, made with PostgreSQL and SvelteKit.
