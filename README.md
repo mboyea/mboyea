@@ -14,7 +14,8 @@ I do full-stack website development, videogame development, and robotics program
 - **MDC (Markdown Converter)** is a piece of software I use to convert my Pandoc-Flavored Markdown notes into PDF documents.
   See the source code at [github.com/mboyea/mdc](https://github.com/mboyea/mdc)
 - **Lacuna** is my master template for making websites.
-  See the prototype at [github.com/mboyea/lacuna](https://github.com/mboyea/lacuna).
+  It performs the role of a CMS like WordPress, but is much cheaper and more performant.
+  See the source code at [github.com/mboyea/lacuna](https://github.com/mboyea/lacuna).
 - **Sometimes I take contracts** to build websites for small businesses.
   I don't advertise this because it's not very profitable.
 
