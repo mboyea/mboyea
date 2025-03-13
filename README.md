@@ -10,12 +10,12 @@ I do full-stack website development, videogame development, and robotics program
 ## 🔭 Current Work
 
 - **[www.mboyea.com](https://www.mboyea.com)** is my portfolio website, made with PostgreSQL and SvelteKit.
-  See the source code at [github.com/mboyea/www-mboyea-com](https://github.com/mboyea/www-mboyea-com).
+  See the source code at [/mboyea/www-mboyea-com](https://github.com/mboyea/www-mboyea-com).
 - **MDC (Markdown Converter)** is a piece of software I use to convert my Pandoc-Flavored Markdown notes into PDF documents.
-  See the source code at [github.com/mboyea/mdc](https://github.com/mboyea/mdc)
+  See the source code at [/mboyea/mdc](https://github.com/mboyea/mdc)
 - **Lacuna** is my master template for making websites.
   It performs the role of a CMS like WordPress, but is much cheaper and more performant.
-  See the source code at [github.com/mboyea/lacuna](https://github.com/mboyea/lacuna).
+  See the source code at [/mboyea/lacuna](https://github.com/mboyea/lacuna).
 - **Sometimes I take contracts** to build websites for small businesses.
   I don't advertise this because it's not very profitable.
 
@@ -61,11 +61,11 @@ To contact me, email at [contact@mboyea.com](mailto:contact@mboyea.com).
   
   See the source code at [github.com/mboyea/docs](https://github.com/mboyea/docs)
 - **NixFlyMC** is a Minecraft server compiled by Nix Package Manager and hosted by Fly.io.
-  See the prototype at [github.com/mboyea/nixflymc](https://github.com/mboyea/nixflymc)
+  See the prototype at [/mboyea/nixflymc](https://github.com/mboyea/nixflymc)
   
   This project is on hold while I focus on securing suitable long-term employment.
 - **LanCouch** is a VPN service targeted towards gamers who miss playing games like Diablo II that only support LAN multiplayer.
-  See the prototype at [github.com/mboyea/fly-vpn](https://github.com/mboyea/fly-vpn).
+  See the prototype at [/mboyea/fly-vpn](https://github.com/mboyea/fly-vpn).
   
   This project is shelved until further notice.
 - **Jotrift** is the name of my upcoming Markdown note storage software.
