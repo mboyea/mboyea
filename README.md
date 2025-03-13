@@ -13,16 +13,8 @@ I do full-stack website development, videogame development, and robotics program
   See the source code at [github.com/mboyea/www-mboyea-com](https://github.com/mboyea/www-mboyea-com).
 - **MDC (Markdown Converter)** is a piece of software I use to convert my Pandoc-Flavored Markdown notes into PDF documents.
   See the source code at [github.com/mboyea/mdc](https://github.com/mboyea/mdc)
-- **Jotrift** is the name of my upcoming Markdown note storage software.
-  My feature list for the MVP prototype is:
-  
-  - Files (Notes + Images) organized in a directory hierarchy
-  - Notes stored in Pandoc-Flavored Markdown (.md) with YAML metadata headers in a SQL database
-  - Images compressed to 5MB and stored in AWS S3 (image metadata and location will be linked to by the Postgres DB)
-  - Users can securely login to their account to access their notes
-  - Users can export (download) thier documents & images
-  - Users can perform full text search over their notes (like Simplenote)
-  
+- **Lacuna** is my master template for making websites.
+  See the prototype at [github.com/mboyea/lacuna](https://github.com/mboyea/lacuna).
 - **Sometimes I take contracts** to build websites for small businesses.
   I don't advertise this because it's not very profitable.
 
@@ -67,10 +59,6 @@ To contact me, email at [contact@mboyea.com](mailto:contact@mboyea.com).
   Looking for my passwords? Sorry! I store those encrypted on a USB drive using KeePassXC.
   
   See the source code at [github.com/mboyea/docs](https://github.com/mboyea/docs)
-- **Lacuna** is my master template for making websites.
-  See the prototype at [github.com/mboyea/lacuna](https://github.com/mboyea/lacuna).
-  
-  This project is on hold while I focus on securing suitable long-term employment.
 - **NixFlyMC** is a Minecraft server compiled by Nix Package Manager and hosted by Fly.io.
   See the prototype at [github.com/mboyea/nixflymc](https://github.com/mboyea/nixflymc)
   
@@ -79,4 +67,14 @@ To contact me, email at [contact@mboyea.com](mailto:contact@mboyea.com).
   See the prototype at [github.com/mboyea/fly-vpn](https://github.com/mboyea/fly-vpn).
   
   This project is shelved until further notice.
+- **Jotrift** is the name of my upcoming Markdown note storage software.
+  My feature list for the MVP prototype is:
+  
+  - Files (Notes + Images) organized in a directory hierarchy
+  - Notes stored in Pandoc-Flavored Markdown (.md) with YAML metadata headers in a SQL database
+  - Images compressed to 5MB and stored in AWS S3 (image metadata and location will be linked to by the Postgres DB)
+  - Users can securely login to their account to access their notes
+  - Users can export (download) thier documents & images
+  - Users can perform full text search over their notes (like Simplenote)
+  
 -->
