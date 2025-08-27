@@ -9,7 +9,7 @@ I do full-stack website development, videogame development, and robotics program
 -->
 ## 🔭 Current Work
 
-- **[/mboyea/.dotfiles](https://github.com/mboyea/.dotfiles)** is my ideal work PC setup, made with [Linux Mint Cinnamon](https://linuxmint.com/), [Ly DM](https://github.com/fairyglade/ly) and [i3 WM](https://i3wm.org/).
+- **[/mboyea/.dotfiles](https://github.com/mboyea/.dotfiles)** is my PC setup, made with [Linux Mint Cinnamon](https://linuxmint.com/), [tuigreet](https://github.com/apognu/tuigreet), and [i3wm](https://i3wm.org/).
 
 <!--
 - **[www.mboyea.com](https://www.mboyea.com)** is my portfolio website, made with PostgreSQL and SvelteKit.
