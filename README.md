@@ -9,7 +9,10 @@ I do full-stack website development, videogame development, and robotics program
 -->
 ## 🔭 Current Work
 
+- **[/mboyea/rift-drive](https://github.com/mboyea/rift-drive)** is my drop-in replacement for Google Drive/OneDrive.
+  I am working on encrypted cloud object storage with website access.
 - **[/mboyea/.dotfiles](https://github.com/mboyea/.dotfiles)** is my PC setup, made with [Linux Mint Cinnamon](https://linuxmint.com/), [tuigreet](https://github.com/apognu/tuigreet), [i3wm](https://i3wm.org/), and [Nix Home Manager](https://nix-community.github.io/home-manager/).
+  I would like to change this to from Mint+Cinnamon to Debian+XFCE at the earliest convenience.
 
 <!--
 - **[www.mboyea.com](https://www.mboyea.com)** is my portfolio website, made with PostgreSQL and SvelteKit.
