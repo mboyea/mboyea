@@ -5,14 +5,16 @@ I do full-stack website development, videogame development, and robotics program
 - Working on software is just about my favorite thing to do.
 - I also really enjoy **weightlifting** 🏋️ & **kickboxing** 🥊 and I *love* to work on **cars** 🚘!!
 <!--
-- I was born in 2004. I built my first computer in 2014. I started making software in 2017. I've been programming for work since 2019. I graduated with a Comp. Sci. degree in 2023.
+- I was born in 2004. I built my first computer in 2014. I started making software in 2018. I've been programming for work since 2019. I graduated with a Comp. Sci. degree in 2023.
 -->
 ## 🔭 Current Work
 
 - **[/mboyea/rift-drive](https://github.com/mboyea/rift-drive)** is my drop-in replacement for Google Drive/OneDrive.
   I am working on encrypted cloud object storage with website access.
-- **[/mboyea/.dotfiles](https://github.com/mboyea/.dotfiles)** is my PC setup, made with [Linux Mint Cinnamon](https://linuxmint.com/), [tuigreet](https://github.com/apognu/tuigreet), [i3wm](https://i3wm.org/), and [Nix Home Manager](https://nix-community.github.io/home-manager/).
-  I would like to change this to from Mint+Cinnamon to Debian+XFCE at the earliest convenience.
+- **[/mboyea/.dotfiles](https://github.com/mboyea/.dotfiles)** is my PC setup, made with [MX Linux](https://mxlinux.org), [greetd](https://github.com/kennylevinsen/greetd), [tuigreet](https://github.com/apognu/tuigreet), [Xfce](https://www.xfce.org), [i3wm](https://i3wm.org/), and [Nix Home Manager](https://nix-community.github.io/home-manager/).
+- **[/mboyea/mdc](https://github.com/mboyea/mdc)** is a **Markdown Converter** that I use to compile my extended [Pandoc-Flavored Markdown](https://pandoc.org/MANUAL.html) notes into PDF documents.
+- **[/mboyea/hex-divinity](https://github.com/mboyea/hex-divinity)** is an expansion for D&D 5e.
+  Taking heavy inspiration from Mythic Bastionland, players encounter living myths as they impose divine order or sow arcane chaos across the land.
 
 <!--
 - **[www.mboyea.com](https://www.mboyea.com)** is my portfolio website, made with PostgreSQL and SvelteKit.
